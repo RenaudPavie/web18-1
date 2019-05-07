@@ -1,5 +1,6 @@
 <?php
 
+require_once './functions/getLang.php';
 require_once './template/head.php';
 require_once './template/header.php';
 require_once './template/content.inc.php';
